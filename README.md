@@ -1,2 +1,2 @@
-# PGATournamentPredictor
-Uses PGA tour statistics to predict future golfer performance in a tournament.
+# PGAStatsDatabase
+Exports PGA Tour statistics from the website into a database.
